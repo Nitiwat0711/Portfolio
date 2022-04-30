@@ -1,0 +1,27 @@
+.Navbar {
+    display: flex;
+    padding: 15px 30px;
+    justify-content: space-between;
+    background-color: rgba(224, 224, 224, 0.05);
+    border-bottom: 0.5px solid rgba(147, 147, 147, 0.3);
+}
+
+.NavItem {
+    display: flex;
+}
+
+.Item {
+    color: white;
+    font-size: 20px;
+    margin-right: 35px;
+}
+
+.Logo {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.IconButton {
+    color: inherit;
+}
